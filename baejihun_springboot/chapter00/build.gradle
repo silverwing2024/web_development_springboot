@@ -1,20 +1,20 @@
 plugins {
     id 'java'
-    id 'org.springframework.boot' version '3.2.0'
-    id 'io.spring.dependency-management' version '1.1.0'
+    id 'org.springframework.boot' version '3.2.0'   //추가
+    id 'io.spring.dependency-management' version '1.1.0'//추가
 }
 
 group = 'me.baejihun'//group id와 동일
 version = '1.0'//수정됨
-sourceCompatibility = '17'
+sourceCompatibility = '17'//추가
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
-    implementation 'org.springframework.boot:spring-boot-starter-web'
-    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    implementation 'org.springframework.boot:spring-boot-starter-web'//추가
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'//추가
 
 }
 
@@ -33,4 +33,7 @@ test {
         -> 추후 계속 업데이트 예정
         spring-boot-starter-web: 기본 값을 모두 지우고 웹 관련 기능을 제공
         spring-boot-starter-test: 추후 메서드 테스트를 위해 사용
+
+
+
 */
