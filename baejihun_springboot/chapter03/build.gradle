@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.2.0'
+    id 'io.spring.dependency-management' version '1.1.0'
+}
+
+group = 'me.baejihun'
+version = '1.0'
+sourceCompatibility = '17'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    //위에까지가 chpater00-02까지 사용한 의존성 모음
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'  //스프링데이터 JPA
+    runtimeOnly 'com.h2database:h2' //인메모리 DB
+    compileOnly 'org.projectlombok:lombok'  //롬복
+    annotationProcessor 'org.projectlombok:lombok'  //여기까지 하셨으면 스프링부트디벨로퍼어플리케이션 이동
+
+}
+
+test {
+    useJUnitPlatform()
+}
