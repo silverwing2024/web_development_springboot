@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d214041a-a459-4781-bb03-271ebcaa828f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/baejihun/SpringBootDeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter01/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter02/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter02/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter02/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/MemberRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/SpringBootDeveloperApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/baejihun/SpringBootDeveloper/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/TestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter05/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/application.yml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2qv8sW5qo13uwR9qJARGNLy3xYt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.chapter03 [:me.baejihun.Main.main()].executor": "Run",
+    "Gradle.chapter03 [:me.baejihun.SpringBootDeveloper.SpringBootDeveloperApplication.main()].executor": "Run",
+    "Gradle.chapter03.executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/baejihun/baejihun_springboot/chapter03/src/main/java/me/baejihun/SpringBootDeveloper",
+    "onboarding.tips.debug.path": "C:/baejihun/baejihun_springboot/chapter03/src/main/java/me/baejihun/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\baejihun\baejihun_springboot\chapter03\src\main\java\me\baejihun\SpringBootDeveloper" />
+      <recent name="C:\baejihun\baejihun_springboot\chapter03\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\baejihun\baejihun_springboot\chapter03\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d214041a-a459-4781-bb03-271ebcaa828f" name="Changes" comment="" />
+      <created>1735531897404</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735531897404</updated>
+    </task>
+    <servers />
+  </component>
+</project>
