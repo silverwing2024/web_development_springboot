@@ -5,31 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d214041a-a459-4781-bb03-271ebcaa828f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/baejihun/SpringBootDeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter04/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/QuizController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chapter05/src/main/resources/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter01/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter01/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter02/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter02/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chapter02/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/MemberRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/SpringBootDeveloperApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/baejihun/SpringBootDeveloper/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/baejihun/springbootdeveloper/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/TestService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter05/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/application.yml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/java/me/baejihun/springbootdeveloper/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/java/me/baejihun/springbootdeveloper/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/java/me/baejihun/springbootdeveloper/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/java/me/baejihun/springbootdeveloper/SpringBootDeveloperApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/java/me/baejihun/springbootdeveloper/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/java/me/baejihun/springbootdeveloper/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/test/java/springbootdeveloper/MemberRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/test/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chapter06/src/test/resources/insert-members.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter05/src/main/java/me/baejihun/springbootdeveloper/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter05/src/test/java/me/baejihun/springbootdeveloper/MemberRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter05/src/test/java/me/baejihun/springbootdeveloper/MemberRepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
