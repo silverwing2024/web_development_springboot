@@ -1,5 +1,4 @@
 package me.baejihun.springbootdeveloper.domain;
-
 import jakarta.persistence.*;
 import lombok.AccessLevel;
 import lombok.Builder;
@@ -12,11 +11,11 @@ import org.springframework.security.core.userdetails.UserDetails;
 import java.util.Collection;
 import java.util.List;
 
-@Table
+@Table(name="users")
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 @Getter
 @Entity
-public class User implements UserDetails {
+public class User implements UserDetails {  // UserDetails를 상속 받아 인증 객체로 사용
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -88,4 +87,14 @@ public class User implements UserDetails {
     즉 @Override가 들어간 코드들이 로그인 관련 코드들이고, 반 필수적이라고 생각하시면 됩니다.
 
     repository -> UserRepository.java 파일을 생성하고 interface를 만듭니다.
+
+
+
+
+
+
+
+
+
+
  */
