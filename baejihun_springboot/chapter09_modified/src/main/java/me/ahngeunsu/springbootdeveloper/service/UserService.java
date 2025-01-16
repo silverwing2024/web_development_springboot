@@ -22,4 +22,11 @@ public class UserService {
                 .build()).getId();
     }
 
+    public User findById(Long UserId){
+        return userRepository.findById(UserId)
+                .orElseThrow(() -> new IllegalArgumentException("unexpected user"));
+    }
+    /*
+        RefreshTokenService.java
+    */
 }
