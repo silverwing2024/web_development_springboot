@@ -1,4 +1,4 @@
-package me.ahngeunsu.springbootdeveloper.controller;
+package springbootdeveloper.controller;
 /*
     Given
         테스트 유저를 생성, jjwt 라이브러리 이용해서 리프레시 토큰을 만들어
@@ -36,10 +36,9 @@ import org.springframework.web.context.WebApplicationContext;
 
 import java.util.Map;
 
-import static org.junit.jupiter.api.Assertions.*;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @SpringBootTest
 @AutoConfigureMockMvc
